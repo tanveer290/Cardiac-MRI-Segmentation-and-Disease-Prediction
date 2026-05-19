@@ -35,7 +35,7 @@ The segmented masks are further used to extract clinically relevant biomarkers f
 
 ---
 
-# 🧠 Technologies Used
+#  Technologies Used
 
 | Category | Tools / Frameworks |
 |---|---|
@@ -48,7 +48,7 @@ The segmented masks are further used to extract clinically relevant biomarkers f
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 Cardiac-Segmentation/
@@ -169,7 +169,7 @@ A hybrid **TabNet–Transformer** architecture is used for cardiac disease class
 - Sparse feature learning
 - Improved interpretability
 
-## 🔹 Transformer Encoder
+##  Transformer Encoder
 - Self-attention mechanisms
 - Long-range dependency learning
 - Relationship modeling between biomarkers
@@ -178,7 +178,7 @@ The hybrid architecture combines interpretability with high representational cap
 
 ---
 
-# ❤️ Target Cardiac Diseases
+#  Target Cardiac Diseases
 
 The framework is designed to classify:
 
@@ -189,7 +189,7 @@ The framework is designed to classify:
 
 ---
 
-# 🔍 Explainable AI
+#  Explainable AI
 
 To improve model transparency and interpretability, Explainable AI techniques are integrated into the framework.
 
@@ -198,7 +198,7 @@ The project uses:
 
 ---
 
-# 🟣 SHAP Feature Importance Analysis
+#  SHAP Feature Importance Analysis
 
 SHAP is used to analyze the contribution of extracted biomarkers toward disease prediction.
 
@@ -206,7 +206,7 @@ SHAP is used to analyze the contribution of extracted biomarkers toward disease 
 
 ---
 
-# 📊 Performance Metrics
+#  Performance Metrics
 
 | Metric | Score |
 |---|---|
