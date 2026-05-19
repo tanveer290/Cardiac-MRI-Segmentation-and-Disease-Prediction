@@ -164,7 +164,7 @@ These biomarkers capture both structural and functional cardiac properties and a
 
 A hybrid **TabNet–Transformer** architecture is used for cardiac disease classification.
 
-## 🔹 TabNet
+##  TabNet
 - Attentive feature selection
 - Sparse feature learning
 - Improved interpretability
